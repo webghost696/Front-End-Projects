@@ -9,11 +9,11 @@ menuIcon.onclick = () => {
 }
 
 pyImg.onclick = () => {
-    window.location.href = "https://github.com/webghost696/mini-projects-for-python"
+    window.location.href = "Link to your python repo"
 }
 
 wbImg.onclick = () => {
-    window.location.href = "https://github.com/webghost696/PortfolioSite";
+    window.location.href = "Link to your webdev repo";
 }
 
 let sections = document.querySelectorAll("section");
